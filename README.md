@@ -1,9 +1,12 @@
 
 # OCTOAgentTeam
 
-Minimal reference implementation of a **multi‑agent“OCTOAgentTeam”** on the Google Agent Development Kit (ADK).  
+Minimal reference implementation of a **multi‑agent dev team** in the Google Agent Development Kit (ADK).  
 
-Agents coordinate through a shared JSON "meme" store—now called **Meme**—and follow workflow rules in **WorkflowDynamics**.
+Agents coordinate through a shared JSON "meme" store — and follow workflow rules in **WorkflowDynamics**.
+
+**Next Steps**
+Integrate vector backend for meme values.
 
 ## Quick start
 
