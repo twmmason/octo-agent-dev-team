@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+octoagentteam/__init__.py
+octoagentteam.egg-info/PKG-INFO
+octoagentteam.egg-info/SOURCES.txt
+octoagentteam.egg-info/dependency_links.txt
+octoagentteam.egg-info/requires.txt
+octoagentteam.egg-info/top_level.txt
+octoagentteam/agents/__init__.py
+octoagentteam/agents/orchestrators.py
+octoagentteam/agents/roles.py
+octoagentteam/agents/scribe.py
+octoagentteam/utils/__init__.py
+octoagentteam/utils/meme.py
+tests/test_e2e.py

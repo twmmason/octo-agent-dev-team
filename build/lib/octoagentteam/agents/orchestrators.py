@@ -1,0 +1,6 @@
+
+"""Stub orchestrator classes – extend as needed."""
+from google.adk.agents import SequentialAgent
+
+class HeadOrchestrator(SequentialAgent): ...
+class UberOrchestrator(SequentialAgent): ...

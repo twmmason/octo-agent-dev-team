@@ -1,0 +1,3 @@
+google-adk>=0.0.5
+pytest
+google-generativeai
